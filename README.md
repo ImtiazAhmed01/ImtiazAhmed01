@@ -21,9 +21,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImtiazAhmed01/ImtiazAhmed01/output/snake.svg" alt="Snake animation" />
 
 
 ###
