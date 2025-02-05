@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hey there... 👋! I am Imtiaz Ahmed</h2>
+<h2 align="left">Hey there... 👋! I am Imtiaz Ahmed. I am a Full Stack Developer</h2>
 
 ###
 
