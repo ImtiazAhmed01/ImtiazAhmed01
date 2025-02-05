@@ -82,6 +82,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+
 </div>
 
 ###
@@ -98,3 +101,10 @@
 </div>
 
 ###
+
+
+
+
+
+
+  
