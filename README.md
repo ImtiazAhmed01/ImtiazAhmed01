@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ImtiazAhmed01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph" />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ImtiazAhmed01&theme=highcontrast" height="150" alt="GitHub Streak" />
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=ImtiazAhmed01&theme=highcontrast&border_radius=5&short_numbers=true)](https://git.io/streak-stats)</a>
   
