@@ -16,7 +16,9 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=ImtiazAhmed01&theme=highcontrast&border_radius=5&short_numbers=true)](https://git.io/streak-stats)</a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImtiazAhmed01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
+  <a href="">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazAhmed01&show_icons=true&theme=radical)
+  </a>
 </div>
 
 </div>
