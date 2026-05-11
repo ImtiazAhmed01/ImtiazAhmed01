@@ -17,9 +17,9 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImtiazAhmed01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImtiazAhmed01&show_icons=true&theme=highcontrast" height="150" />
-</a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImtiazAhmed01-2005&layout=compact&theme=radical)
 </div>
 
 </div>
