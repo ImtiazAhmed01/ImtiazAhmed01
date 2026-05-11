@@ -15,9 +15,11 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=ImtiazAhmed01&theme=highcontrast&border_radius=5&short_numbers=true)](https://git.io/streak-stats)</a>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ImtiazAhmed01&layout=compact&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImtiazAhmed01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph" />
 
-[![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazAhmed01&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImtiazAhmed01&show_icons=true&theme=highcontrast" height="150" />
+</a>
 </div>
 
 </div>
